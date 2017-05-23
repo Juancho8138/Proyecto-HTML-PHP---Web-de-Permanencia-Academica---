@@ -1,0 +1,13 @@
+<style type="text/css">
+
+table, td, th { border: 1px solid; }
+table { border-collapse: collapse; }
+td, th { width: 100px; height: 35px; }
+table { border-collapse: collapse; margin: auto; }
+
+caption { font-family: Garamond; font-size: 1.5em; font-weight: bold; 
+          color: #FFDA80;text-align: center; }
+th { font-family: Verdana; font-weight: bold; color:#8090C3 }
+td { font-family: Arial; color:#FF9500 }
+
+</style>
